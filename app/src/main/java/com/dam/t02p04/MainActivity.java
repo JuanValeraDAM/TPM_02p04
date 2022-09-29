@@ -15,5 +15,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         binding=ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
+        
+                Toast.makeText(this, "Cambiando desde github",Toast.LENGTH_LONG);
+
     }
 }
