@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">T02p04</string>
+    <string name="tv_Calculadora">Calculadora</string>
+    <string name="tv_Numero1">Numero 1</string>
+    <string name="tv_Numero2">Numero 2</string>
+    <string name="bt_Suma">+</string>
+    <string name="bt_Multiplicacion">*</string>
+    <string name="bt_Resta">-</string>
+    <string name="bt_Division">/</string>
+    <string name="tv_Operacion">Operacion</string>
+    <string name="bt_Limpiar">Limpiar</string>
+    <string name="bt_Salir">Salir</string>
 </resources>
