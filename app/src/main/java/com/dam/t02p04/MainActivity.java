@@ -18,5 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(binding.getRoot());
 
 
+        Toast.makeText(this,"Cambio desde el Aula", Toast.LENGTH_LONG).show();
+
     }
 }
