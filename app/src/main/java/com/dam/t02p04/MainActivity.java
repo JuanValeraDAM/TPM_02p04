@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Toast;
 
 import com.dam.t02p04.databinding.ActivityMainBinding;
 
@@ -15,8 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         binding=ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
-        
-                Toast.makeText(this, "Cambiando desde github",Toast.LENGTH_LONG);
+
 
     }
 }
